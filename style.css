@@ -24,10 +24,38 @@ nav {
  }
 
 .fa-twitter{
-   font-size: 50px;
+   font-size: 30px;
    color: rgb(0, 119, 255);
 }
 
 .fa-twitter:hover{
    color: rgb(80, 153, 238);
+}
+
+.fa-instagram{
+   font-size: 30px;
+   padding: 12px;
+   color: rgb(211, 24, 167);
+}
+
+.fa-instagram:hover{
+   color: rgb(234, 96, 202);
+}
+
+.fa-facebook{
+   font-size: 30px;
+   padding: px;
+   color: rgb(32, 59, 228);
+}
+
+.fa-facebook:hover{
+   color: rgb(75, 94, 220);
+}
+
+.footer{
+   background-color: #efebeb;
+}
+
+.e.mail_2_0{
+   display: flex;
 }
