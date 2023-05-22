@@ -1,8 +1,7 @@
 Millorar calendari
-Ficar l'informació al costat de les fotos
 Botiga
 Musica
 Qui som?
 Blog
-Contacte
 Caserna
+Fer el codi responsive (Ficar l'informació al costat de les fotos)
